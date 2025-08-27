@@ -26,7 +26,7 @@ A comprehensive theming system for [OpenBench](https://github.com/AndyGrant/Open
 
 ```bash
 cd /path/to/OpenBench
-git clone https://github.com/YOUR_USERNAME/openbench-themes.git themes_temp
+git clone https://github.com/namebrandon/openbench-themes.git themes_temp
 mv themes_temp/apply_theme.py .
 mv themes_temp/themes .
 rm -rf themes_temp
