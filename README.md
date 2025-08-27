@@ -7,7 +7,6 @@ A comprehensive theming system for [OpenBench](https://github.com/AndyGrant/Open
 - **Multiple Pre-built Themes** - Six example themes included
 - **Hot-swappable Themes** - Switch themes without manually modifying source code
 - **Automatic Backups** - Preserves previous themes before applying changes
-- **Smart Cache Management** - Automatic browser refresh using version suffixes
 - **Path Auto-detection** - Automatically locates OpenBench installation
 - **Safe Rollback** - Easy restoration to any previous theme
 
@@ -68,6 +67,8 @@ python3 apply_theme.py --apply theme_grass.json --no-backup
 # Display help information
 python3 apply_theme.py --help
 ```
+Make sure to restart nginx/apache/gnunicorn 
+You may need to collectstatic with the OB manage.py
 
 ## Creating Custom Themes
 
@@ -229,9 +230,12 @@ The script implements intelligent version management:
 - Verify CSS file permissions
 - Check Python version compatibility
 - Ensure correct OpenBench path
+- Restart gnunicorn / nginx / apache
+- run collect static
+- remove immutable from nginx site config
 
 **Colors not updating:**
-- Clear browser cache manually
+- Clear browser cache manually / try incognito
 - Verify theme JSON syntax
 - Check for CSS syntax errors
 
