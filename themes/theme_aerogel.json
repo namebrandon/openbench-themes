@@ -1,0 +1,50 @@
+{
+  "name": "Aerogel Theme",
+  "description": "Light, translucent blue theme inspired by macOS Aerogel - ethereal blues with crystal clarity",
+  "colors": {
+    "backgrounds": {
+      "color1": "#1A1F2E",
+      "color2": "#232937",
+      "color3": "#364159"
+    },
+    "text": {
+      "color-font1": "#F0F4FC",
+      "color-font2": "#C5D3E8",
+      "color-font3": "#7FB4FF"
+    },
+    "links": {
+      "default": "#8FC9FF"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#2A3345",
+      "table_header_bg": "#141824",
+      "table_border": "#4A5A7A",
+      "hover_row": "#2E3A52",
+      "popup_bg": "#1A2030",
+      "popup_border": "#7FB4FF"
+    },
+    "buttons": {
+      "btn_blue": "#4A7FCC",
+      "btn_blue_hover": "#5A92E0",
+      "btn_start": "#5588DD",
+      "btn_start_hover": "#6699EE",
+      "btn_preset": "#3D6BA8",
+      "btn_preset_hover": "#4A7DBA",
+      "btn_yellow": "#B8A055",
+      "btn_yellow_hover": "#CCAF60",
+      "btn_red": "#B85555",
+      "btn_red_hover": "#CC6666"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#CCCCCC"
+    },
+    "special": {
+      "redlink": "#FF8888",
+      "was_default_network": "#FFE088"
+    }
+  }
+}

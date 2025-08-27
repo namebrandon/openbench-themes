@@ -1,0 +1,50 @@
+{
+  "name": "Financial Times Theme",
+  "description": "Clean, professional theme inspired by the Financial Times - signature salmon pink with paper tones",
+  "colors": {
+    "backgrounds": {
+      "color1": "#FFF1E5",
+      "color2": "#F6E9D8",
+      "color3": "#FFDFC9"
+    },
+    "text": {
+      "color-font1": "#333333",
+      "color-font2": "#5A5449",
+      "color-font3": "#FF6F5E"
+    },
+    "links": {
+      "default": "#2E6E9E"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#F0DCC5",
+      "table_header_bg": "#FFC8B8",
+      "table_border": "#D4B5A0",
+      "hover_row": "#FFE0D0",
+      "popup_bg": "#FFF8F0",
+      "popup_border": "#FF6F5E"
+    },
+    "buttons": {
+      "btn_blue": "#2E6E9E",
+      "btn_blue_hover": "#3A7FAF",
+      "btn_start": "#FF8577",
+      "btn_start_hover": "#FF9988",
+      "btn_preset": "#5A7C96",
+      "btn_preset_hover": "#6B8DA7",
+      "btn_yellow": "#B8953C",
+      "btn_yellow_hover": "#C9A64D",
+      "btn_red": "#CC4444",
+      "btn_red_hover": "#DD5555"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#D4B5A0"
+    },
+    "special": {
+      "redlink": "#CC4444",
+      "was_default_network": "#D4A644"
+    }
+  }
+}

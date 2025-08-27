@@ -1,0 +1,50 @@
+{
+  "name": "Original Dark Theme",
+  "description": "The original OpenBench dark theme with green accents",
+  "colors": {
+    "backgrounds": {
+      "color1": "#222222",
+      "color2": "#2D2D2D", 
+      "color3": "#3B3B3B"
+    },
+    "text": {
+      "color-font1": "#DBDEE1",
+      "color-font2": "#949BA4",
+      "color-font3": "#008F11"
+    },
+    "links": {
+      "default": "#8BBAD6"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#303030",
+      "table_header_bg": "#171717",
+      "table_border": "#444444",
+      "hover_row": "#323232",
+      "popup_bg": "#000",
+      "popup_border": "#ccc"
+    },
+    "buttons": {
+      "btn_blue": "#1C2D40",
+      "btn_blue_hover": "#2E3F57",
+      "btn_start": "#384A5F",
+      "btn_start_hover": "#2E3F57",
+      "btn_preset": "#046c52",
+      "btn_preset_hover": "#11a983",
+      "btn_yellow": "#7A4E09",
+      "btn_yellow_hover": "#9B6B0F",
+      "btn_red": "#74261E",
+      "btn_red_hover": "#8E3D28"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#CCCCCC"
+    },
+    "special": {
+      "redlink": "#FF4D4D",
+      "was_default_network": "#EFF891"
+    }
+  }
+}

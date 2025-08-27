@@ -1,0 +1,50 @@
+{
+  "name": "SeaJay Theme",
+  "description": "Professional navy blue theme for SeaJay engine - deep ocean colors with light blue accents",
+  "colors": {
+    "backgrounds": {
+      "color1": "#091624",
+      "color2": "#0E1E31", 
+      "color3": "#003A72"
+    },
+    "text": {
+      "color-font1": "#E6E6E6",
+      "color-font2": "#A6B3C0",
+      "color-font3": "#73ACE6"
+    },
+    "links": {
+      "default": "#73ACE6"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#0E1E31",
+      "table_header_bg": "#050F17",
+      "table_border": "#264973",
+      "hover_row": "#12263A",
+      "popup_bg": "#050F17",
+      "popup_border": "#73ACE6"
+    },
+    "buttons": {
+      "btn_blue": "#4080BF",
+      "btn_blue_hover": "#5690CA",
+      "btn_start": "#4080BF",
+      "btn_start_hover": "#5690CA",
+      "btn_preset": "#26649A",
+      "btn_preset_hover": "#3472A8",
+      "btn_yellow": "#A18100",
+      "btn_yellow_hover": "#BE9E0E",
+      "btn_red": "#96322B",
+      "btn_red_hover": "#A4413A"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#CCCCCC"
+    },
+    "special": {
+      "redlink": "#FF6B6B",
+      "was_default_network": "#FFD700"
+    }
+  }
+}

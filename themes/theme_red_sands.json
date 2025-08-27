@@ -1,0 +1,50 @@
+{
+  "name": "Red Sands Theme",
+  "description": "Warm desert theme inspired by macOS Red Sands - terracotta and sand tones with sunset accents",
+  "colors": {
+    "backgrounds": {
+      "color1": "#2A1A15",
+      "color2": "#3A241C",
+      "color3": "#5A3A2F"
+    },
+    "text": {
+      "color-font1": "#F5E8D8",
+      "color-font2": "#D4B5A0",
+      "color-font3": "#FF9566"
+    },
+    "links": {
+      "default": "#FFA77A"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#402A20",
+      "table_header_bg": "#1F110D",
+      "table_border": "#6B4A3A",
+      "hover_row": "#482F25",
+      "popup_bg": "#1F110D",
+      "popup_border": "#FF9566"
+    },
+    "buttons": {
+      "btn_blue": "#8B5A3C",
+      "btn_blue_hover": "#A26B49",
+      "btn_start": "#9B6548",
+      "btn_start_hover": "#B27555",
+      "btn_preset": "#7A4E38",
+      "btn_preset_hover": "#8F5D44",
+      "btn_yellow": "#C8A054",
+      "btn_yellow_hover": "#D4AF63",
+      "btn_red": "#B54A3A",
+      "btn_red_hover": "#C85545"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#CCCCCC"
+    },
+    "special": {
+      "redlink": "#FF7A6A",
+      "was_default_network": "#FFD074"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Grass Theme",
+  "description": "Fresh green terminal theme inspired by macOS Grass - natural green tones with lime accents",
+  "colors": {
+    "backgrounds": {
+      "color1": "#13261F",
+      "color2": "#1A3328",
+      "color3": "#2D5A45"
+    },
+    "text": {
+      "color-font1": "#E8F5E8",
+      "color-font2": "#B4D4C1",
+      "color-font3": "#7FE068"
+    },
+    "links": {
+      "default": "#9EF088"
+    },
+    "ui_elements": {
+      "sidebar_hover": "#1F3D2F",
+      "table_header_bg": "#0D1A14",
+      "table_border": "#3A5F4C",
+      "hover_row": "#244032",
+      "popup_bg": "#0D1A14",
+      "popup_border": "#7FE068"
+    },
+    "buttons": {
+      "btn_blue": "#2E7D5B",
+      "btn_blue_hover": "#3A9970",
+      "btn_start": "#3A8F68",
+      "btn_start_hover": "#46AB7E",
+      "btn_preset": "#2A6B4F",
+      "btn_preset_hover": "#358760",
+      "btn_yellow": "#8A9B3C",
+      "btn_yellow_hover": "#A2B548",
+      "btn_red": "#8B4A3C",
+      "btn_red_hover": "#A65846"
+    },
+    "status": {
+      "statblock_green": "#76D576",
+      "statblock_red": "#FA9696",
+      "statblock_yellow": "#EFF891",
+      "statblock_blue": "#60F0FF",
+      "statblock_default": "#CCCCCC"
+    },
+    "special": {
+      "redlink": "#FF7B7B",
+      "was_default_network": "#D4F054"
+    }
+  }
+}
